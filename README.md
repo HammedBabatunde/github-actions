@@ -1,4 +1,2 @@
-# Using Artifacts
+# Challenge 2
 
-- Build and upload binaries for windows and linux
-- Download and test binaries on both platforms
